@@ -46,7 +46,7 @@ I build **AI solutions and automations** — from data pipelines and ML models t
 |---|---|---|
 | [**invoice-extractor**](https://github.com/K4iserDev/invoice-extractor) | Extracts number, date, issuer and total from Spanish & international PDF invoices and exports them to Excel | Python · pdfplumber · regex · openpyxl |
 | [**Invoice-Chatbot**](https://github.com/K4iserDev/Invoice-Chatbot) | Chat assistant that answers natural-language questions about the extracted invoice data | Python · OpenAI API |
-| [**ML-model-searcher**](https://github.com/K4iserDev/ML-model-searcher) | ONE LINE: what it does | Python · scikit-learn |
+| [**Quant**](https://github.com/K4iserDev/Quant) | Quantitative research on gold M5: hypotheses tested against random controls, placebos and out-of-sample data | Python · pandas · LightGBM · statsmodels |
 
 ### 💡 What I can help with
 

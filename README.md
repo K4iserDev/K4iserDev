@@ -1,11 +1,5 @@
-<!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Asier%20Martin&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=AI%20%26%20Big%20Data%20Developer&descAlignY=58&descSize=18&animation=fadeIn" width="100%" />
-</p>
-
-<!-- Typing intro -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=800&color=2C9AB7&center=true&vCenter=true&width=600&lines=Building+AI+solutions+and+automations;Machine+Learning+%C2%B7+LLMs+%C2%B7+Big+Data;From+PLCs+to+AI+%F0%9F%A4%96;Python+%C2%B7+Spark+%C2%B7+AWS+%C2%B7+Docker" alt="Typing intro" />
+  <img src="./banner.svg" width="100%" alt="Asier Martin · AI & Big Data Developer" />
 </p>
 
 <p align="center">
@@ -57,8 +51,3 @@ I build **AI solutions and automations** — from data pipelines and ML models t
 ### 💡 What I can help with
 
 `AI-powered automations` · `Custom Python tools` · `Data pipelines & ETL` · `ML models` · `Computer vision` · `Process automation`
-
-<!-- Footer -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=100&section=footer" width="100%" />
-</p>

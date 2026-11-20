@@ -4,7 +4,6 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/TU_USUARIO"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:TU_EMAIL"><img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.upwork.com/freelancers/TU_PERFIL"><img src="https://img.shields.io/badge/Upwork-6FDA44?style=flat&logo=upwork&logoColor=white" /></a>
   <img src="https://img.shields.io/badge/📍-Donostia,_Spain-555" />
 </p>
 
@@ -12,13 +11,12 @@
 
 ### About me
 
-I build **AI solutions and automations** that help companies save time and work smarter — from data pipelines and ML models to custom Python tools.
+I build **AI solutions and automations** — from data pipelinesk, ML, LLM ,Artificial neurons.
 
-- 🎓 Specialization course in **AI & Big Data** (2026–2027) · Degree in **Industrial Automation & Robotics**
-- 🤖 Background in **PLC programming** (TIA Portal, RSLogix) and industrial robots — I understand real factory processes
-- 🔐 Into **offensive security** and bug bounty (YesWeHack)
+- 🎓 Specialization course in **AI & Big Data** (2026–2027)·
+- 🤖 Background in **Procces automation**.
+- 🔐 Into **offensive security** and bug bounty.
 - 📈 Building **algorithmic trading** systems in Python and MQL5
-- 🌱 Currently learning: Spark, Airflow, reinforcement learning (AWS DeepRacer)
 
 ### Tech stack
 

@@ -65,10 +65,5 @@ I build **AI solutions and automations** — from data pipelines and ML models t
 | [**Invoice-Chatbot**](https://github.com/K4iserDev/Invoice-Chatbot) | Chat assistant that answers natural-language questions about the extracted invoice data | Python · OpenAI API |
 | [**ML-model-searcher**](https://github.com/K4iserDev/ML-model-searcher) | ONE LINE: what it does | Python · scikit-learn |
 
-### What I can help with
-
-`AI-powered automations` · `Custom Python tools` · `Data pipelines & ETL` · `ML models` · `Computer vision` · `Process automation for SMEs`
-
----
 
 <p align="center"><i>Open to internships and freelance projects in AI & Data — feel free to reach out.</i></p>

@@ -2,20 +2,19 @@
 <h3 align="center">AI & Big Data Developer · Python · Industrial Automation</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/TU_USUARIO"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:TU_EMAIL"><img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" /></a>
-  <img src="https://img.shields.io/badge/📍-Donostia,_Spain-555" />
+  <a href="https://www.linkedin.com/in/asier-martin01"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:k4iser.dev@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
 
 ### About me
 
-I build **AI solutions and automations** — from data pipelinesk, ML, LLM ,Artificial neurons.
+I build **AI solutions and automations** — from data pipelines and ML models to LLM apps and neural networks.
 
-- 🎓 Specialization course in **AI & Big Data** (2026–2027)·
-- 🤖 Background in **Procces automation**.
-- 🔐 Into **offensive security** and bug bounty.
+- 🎓 Specialization course in **AI & Big Data** (2026–2027)
+- 🤖 Background in **process automation**
+- 🔐 Into **offensive security** and bug bounty
 - 📈 Building **algorithmic trading** systems in Python and MQL5
 
 ### Tech stack
@@ -29,6 +28,7 @@ I build **AI solutions and automations** — from data pipelinesk, ML, LLM ,Arti
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white" />
 <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat" />
 <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=flat" />
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" />
 
 **Big Data / Cloud**
 <br>
@@ -61,9 +61,9 @@ I build **AI solutions and automations** — from data pipelinesk, ML, LLM ,Arti
 
 | Project | Description | Stack |
 |---|---|---|
-| [**PROYECTO_1**](https://github.com/K4iser/REPO_1) | One line: what problem it solves | Python · ... |
-| [**PROYECTO_2**](https://github.com/K4iser/REPO_2) | One line: what problem it solves | ... |
-| [**PROYECTO_3**](https://github.com/K4iser/REPO_3) | One line: what problem it solves | ... |
+| [**invoice-extractor**](https://github.com/K4iserDev/invoice-extractor) | Extracts number, date, issuer and total from Spanish & international PDF invoices and exports them to Excel | Python · pdfplumber · regex · openpyxl |
+| [**Invoice-Chatbot**](https://github.com/K4iserDev/Invoice-Chatbot) | Chat assistant that answers natural-language questions about the extracted invoice data | Python · OpenAI API |
+| [**ML-model-searcher**](https://github.com/K4iserDev/ML-model-searcher) | ONE LINE: what it does | Python · scikit-learn |
 
 ### What I can help with
 
